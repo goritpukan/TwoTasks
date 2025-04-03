@@ -27,7 +27,7 @@ return styleState;
 
 2. Друга задача:
 
-const multiply = (a,b,c) => a*b*c;
+const multiply = (a,b,c) => a\*b\*c;
 const add = (a,b,c,d,e) => a+b+c+d+e;
 
 const curry = (f) => { /* write your solution here */ }
